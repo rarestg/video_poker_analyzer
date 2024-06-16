@@ -5,6 +5,7 @@ Python code to calculate the optimal discard strategy for a given video poker ha
 all_hands_analysis: Script that calls `HandAnalyzer` and saves strategy and expected value of the play for all ~2.6M possible hands (assuming a 52 card deck).
 
 tl;dr:
+nice!
 
 The game of poker is played with a great number of variations, and it is often said that the game is as much about your opponent as the cards. While that is true of the version commonly seen on TV, there are other variations of poker where this is not true. Specifically, in "video poker" a player does not have an opponent per se, just a machine that includes a random number generator.
 
